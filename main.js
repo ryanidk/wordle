@@ -15672,6 +15672,7 @@
         );
       })(u(HTMLElement));
     customElements.define("game-stats", Vs);
+    /*
     var Fs = document.createElement("template"),
       Ws = [
         {
@@ -15737,6 +15738,7 @@
         Ws,
         '</div>\n    <div class="privacy">\n      <a href="https://www.nytimes.com/privacy/privacy-policy" onmouseover="this.style.textDecoration=\'underline\';" \n      onmouseout="this.style.textDecoration=\'none\';">\n        Privacy Policy\n      </a>\n    </div>\n  </div>\n'
       );
+      */
     var Ys = (function (e) {
       r(t, e);
       var a = h(t);
